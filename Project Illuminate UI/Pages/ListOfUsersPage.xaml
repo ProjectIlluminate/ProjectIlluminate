@@ -1,0 +1,70 @@
+﻿<Page x:Class="Project_Illuminate_UI.Pages.ListOfUsersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="ListOfUsersPage">
+
+    <Grid Background="Black">
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!--<Button Name="btnGoBack" Background="Transparent" BorderBrush="Black" Width="100" Height="80" VerticalAlignment="Top" HorizontalAlignment="Left" />
+            <StackPanel Orientation="Vertical" Grid.ColumnSpan="2" Margin="10,0,210,0">
+                <Image Source="/Images/ArrowWhite.png" Width="50" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                <TextBlock Text="Return" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="White"/>
+            </StackPanel>-->
+
+            <Rectangle Fill="LawnGreen" Grid.Row="1" Grid.Column="1" Margin="10"/>
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="1">
+                <Image Source="/Images/Login.png" Width="100" VerticalAlignment="Center" Margin="0,20,0,5"/>
+                <!--User pic inserted here-->
+                <TextBlock Name="lstBxUser1" Text="User 1" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Background="Transparent" Margin="10"/>
+            </StackPanel>
+            <Rectangle Fill="DodgerBlue" Grid.Row="1" Grid.Column="2" Margin="10"/>
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="2">
+                <Image Source="/Images/Login.png" Width="100" VerticalAlignment="Center" Margin="0,20,0,5"/>
+                <!--User pic inserted here-->
+                <TextBlock Name="lstBxUser2" Text="User 2" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20"  Background="Transparent" Margin="10"/>
+            </StackPanel>
+            <Rectangle Fill="Crimson" Grid.Row="1" Grid.Column="3" Margin="10"/>
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="3">
+                <Image Source="/Images/Login.png" Width="100" VerticalAlignment="Center" Margin="0,20,0,5"/>
+                <!--User pic inserted here-->
+                <TextBlock Name="lstBxUser3" Text="User 3" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Background="Transparent" Margin="10"/>
+            </StackPanel>
+            <Rectangle Fill="SpringGreen" Grid.Row="2" Grid.Column="1" Margin="10"/>
+            <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="1">
+                <Image Source="/Images/Login.png" Width="100" VerticalAlignment="Center" Margin="0,20,0,5"/>
+                <!--User pic inserted here-->
+                <TextBlock Name="lstBxUser4" Text="User 4" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Background="Transparent" Margin="10"/>
+            </StackPanel>
+            <Rectangle Fill="Violet" Grid.Row="2" Grid.Column="2" Margin="10"/>
+            <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="2">
+                <Image Source="/Images/Login.png" Width="100" VerticalAlignment="Center" Margin="0,20,0,5"/>
+                <!--User pic inserted here-->
+                <TextBlock Name="lstBxUser5" Text="User 5" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Background="Transparent" Margin="10"/>
+            </StackPanel>
+            <Rectangle Fill="Yellow" Grid.Row="2" Grid.Column="3" Margin="10"/>
+            <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="3">
+                <Image Source="/Images/Login.png" Width="100" VerticalAlignment="Center" Margin="0,20,0,5"/>
+                <!--User pic inserted here-->
+                <TextBlock Name="lstBxUser6" Text="User 6" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20" Background="Transparent" Margin="10"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

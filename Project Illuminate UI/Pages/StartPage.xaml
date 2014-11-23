@@ -1,0 +1,57 @@
+﻿<Page x:Class="Project_Illuminate_UI.Pages.StartPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2014"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="StartPage">
+
+    <Grid Background="Black">
+        <!--<Image Source="/Images/BG_Black.jpg"/>-->
+        <Grid Margin="30,30,10,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!--<Button Name="btnGoBack" Content="Return" Background="Aquamarine" Width="50" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnGoBack_Click"/>-->
+
+            <Button Name="btnRoomView" Grid.Column="1" Grid.Row="0" Margin="20" Background="DarkCyan" Click="btnRoomView_Click">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="/Images/LiveFeedSml.png"  MaxWidth="200"/>
+                    <TextBlock Text="RoomView" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnAddUser" Grid.Row="0" Grid.Column="2" Margin="20" Background="Red" Click="btnAddUser_Click">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="/Images/userWhiteSml.png" MaxWidth="110" VerticalAlignment="Top"/>
+                    <TextBlock Text="Add User" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnMessagingService" Grid.Row="1" Grid.Column="1" Margin="20" Background="DarkOrange" Click="btnMessagingService_Click">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="/Images/EmailNoteWhiteSml.png" MaxWidth="170" VerticalAlignment="Top" />
+                    <TextBlock Text="MessagingService" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnListOfUsers" Grid.Row="1" Grid.Column="2" Margin="20" Background="Green" Click="btnListOfUsers_Click">
+                <StackPanel Orientation="Vertical">
+                    <Image Source="/Images/ListUsers1WhiteSml.png" MaxWidth="190"/>
+                    <TextBlock Text="ListOfUsers" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
+                </StackPanel>
+            </Button>
+
+        </Grid>
+    </Grid>
+</Page>

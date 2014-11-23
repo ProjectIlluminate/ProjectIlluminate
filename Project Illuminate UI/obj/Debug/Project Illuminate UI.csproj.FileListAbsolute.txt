@@ -1,0 +1,39 @@
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Project Illuminate UI.exe.config
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\MainWindow.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Resources\Icons.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\App.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\MainWindow.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Resources\Icons.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\App.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Project Illuminate UI_MarkupCompile.cache
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Project Illuminate UI.g.resources
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Project_Illuminate_UI.Properties.Resources.resources
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Project Illuminate UI.exe
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Project Illuminate UI.pdb
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\MahApps.Metro.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\MahApps.Metro.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Project Illuminate UI.exe
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Project Illuminate UI.pdb
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\ProjectIlluminate.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\ProjectIlluminate.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\AddUserPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\ListOfUsersPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\MessagingServicePage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\PasswordPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\RoomViewPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\StartPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\AddUserPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\ListOfUsersPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\MessagingServicePage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\PasswordPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\RoomViewPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\Debug\Pages\StartPage.g.cs
