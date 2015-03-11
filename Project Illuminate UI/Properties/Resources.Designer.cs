@@ -67,5 +67,52 @@ namespace Project_Illuminate_UI.Properties
                 resourceCulture = value;
             }
         }
+
+
+        internal static string NoKinectReady
+        {
+            get
+            {
+                return ResourceManager.GetString("NoKinectReady", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Could not find Kinect speech recognizer. Please refer to the sample requirements..
+        /// </summary>
+        internal static string NoSpeechRecognizer
+        {
+            get
+            {
+                return ResourceManager.GetString("NoSpeechRecognizer", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;grammar version=&quot;1.0&quot; xml:lang=&quot;en-US&quot; root=&quot;rootRule&quot; tag-format=&quot;semantics/1.0-literals&quot; xmlns=&quot;http://www.w3.org/2001/06/grammar&quot;&gt;
+        ///  &lt;rule id=&quot;rootRule&quot;&gt;
+        ///    &lt;one-of&gt;
+        ///      &lt;item&gt;
+        ///        &lt;tag&gt;FORWARD&lt;/tag&gt;
+        ///        &lt;one-of&gt;
+        ///          &lt;item&gt; forwards &lt;/item&gt;
+        ///          &lt;item&gt; forward &lt;/item&gt;
+        ///          &lt;item&gt; straight &lt;/item&gt;
+        ///        &lt;/one-of&gt;
+        ///      &lt;/item&gt;
+        ///      &lt;item&gt;
+        ///        &lt;tag&gt;BACKWARD&lt;/tag&gt;
+        ///        &lt;one-of&gt;
+        ///          &lt;item&gt; backward &lt;/item&gt;
+        ///          &lt;item&gt; backwards &lt;/item&gt;
+        ///         [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SpeechGrammar
+        {
+            get
+            {
+                return ResourceManager.GetString("SpeechGrammar", resourceCulture);
+            }
+        }
     }
 }

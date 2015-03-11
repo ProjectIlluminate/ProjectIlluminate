@@ -1,0 +1,400 @@
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+C:\Users\Cie\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+C:\Users\Paul\Desktop\Monday Pres\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+D:\School\Project 2014\Project Illuminate VDunno\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+D:\School\Project 2014\Project Illuminate VDunno\Paul's speech\try window\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Last Version\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\MessagingServicePage.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.SqlServer.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.SqlServer.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\School\Project 2014\Last Version\Attempt to working database\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AdminPage.baml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AdminPage.g.cs
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe.config
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.exe
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Project Illuminate UI.pdb
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.SqlServer.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\EntityFramework.SqlServer.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\MahApps.Metro.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Fusion.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.ServiceBus.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\bin\x64\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csprojResolveAssemblyReference.cache
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AdminPage.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.baml
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\MainWindow.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AddUserPage.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\AdminPage.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ListOfUsersPage.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\PasswordPage.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\ProjectIlluminate.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\RoomViewPage.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Pages\StartPage.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Resources\Icons.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\App.g.cs
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI_MarkupCompile.cache
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.g.resources
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project_Illuminate_UI.Properties.Resources.resources
+D:\School\Project 2014\Project Illuminate UI\Project Illuminate UI\obj\x64\Debug\Project Illuminate UI.csproj.GenerateResource.Cache

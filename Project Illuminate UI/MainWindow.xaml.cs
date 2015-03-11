@@ -56,14 +56,8 @@ namespace Project_Illuminate_UI
                 Width = 121,
             };
             Grid grid = new Grid();
-
-
-            //grid.Children.Add(kinectRegion);
-            //grid.Children.Add(kinectUserViewer);
-            ////kinectRegion.Content = rootFrame;
-            ////place the frame in the current window
-            //App.UserGrid = grid;
-            ////* end new code
         }
+
+
     }
 }

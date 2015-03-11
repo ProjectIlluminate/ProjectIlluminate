@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\maggs\Desktop\Project Illuminate UI\Project Illuminate UI\App.xaml
-9-967266913
+9-1719265061
 
-17-227863356
-19-408814080
-MainWindow.xaml;Pages\AddUserPage.xaml;Pages\ListOfUsersPage.xaml;Pages\MessagingServicePage.xaml;Pages\PasswordPage.xaml;Pages\ProjectIlluminate.xaml;Pages\RoomViewPage.xaml;Pages\StartPage.xaml;Resources\Icons.xaml;
+18-1155106688
+30-832373512
+MainWindow.xaml;Pages\AddUserPage.xaml;Pages\AdminPage.xaml;Pages\ListOfUsersPage.xaml;Pages\PasswordPage.xaml;Pages\ProjectIlluminate.xaml;Pages\RoomViewPage.xaml;Pages\StartPage.xaml;Resources\Icons.xaml;
 
 False
 

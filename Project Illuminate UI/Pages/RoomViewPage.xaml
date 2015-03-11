@@ -7,15 +7,17 @@
       d:DesignHeight="300" d:DesignWidth="300"
 	Title="RoomViewPage">
 
-    <Grid Background="Black">
+    <Grid>
         <Grid Margin="20">
             <Grid.RowDefinitions>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="8*"/>
+                <RowDefinition Height="13*"/>
+                <RowDefinition Height="13*"/>
+                <RowDefinition Height="13*"/>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
@@ -27,9 +29,27 @@
                 <Image Source="/Images/ArrowWhite.png" Width="50" VerticalAlignment="Top" HorizontalAlignment="Left"/>
                 <TextBlock Text="Return" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="White"/>
             </StackPanel>-->
-            
-            <TextBlock Text="Pg1_LiveFeed" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Rectangle Fill ="LawnGreen" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1" Grid.RowSpan="2"/>
+            <Border BorderThickness="1" CornerRadius="3" MaxHeight="40" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Border.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA4B3C5" Offset="0"/>
+                        <GradientStop Color="#FFA4B3C5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.BorderBrush>
+                <Border BorderThickness="1" BorderBrush="Black" CornerRadius="0" >
+                    <Border.Background>
+                        <RadialGradientBrush GradientOrigin="0.225,-0.616" RadiusY="0.863" RadiusX="0.757">
+                            <GradientStop Color="#EEFFFFFF"/>
+                            <GradientStop Color="#00FFFFFF" Offset="0.696"/>
+                        </RadialGradientBrush>
+                    </Border.Background>
+                    <Button Name="btnGoBack" Content="GO BACK" Background="Transparent" Foreground="White" BorderBrush="Black" MinWidth="100" MaxHeight="80" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnGoBack_Click"/>
+                </Border>
+            </Border>
+
+            <Viewbox Grid.Row="1" Grid.RowSpan="4" Grid.Column="0" Grid.ColumnSpan="5" HorizontalAlignment="Center" Margin="26,0">
+                <Image Source="{Binding ImageSource}" Stretch="UniformToFill" />
+            </Viewbox>
 
 
         </Grid>

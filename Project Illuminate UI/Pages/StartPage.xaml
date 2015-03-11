@@ -8,47 +8,69 @@
       d:DesignHeight="300" d:DesignWidth="300"
 	Title="StartPage">
 
-    <Grid Background="Black">
+    <Grid>
         <!--<Image Source="/Images/BG_Black.jpg"/>-->
         <Grid Margin="30,30,10,10">
             <Grid.RowDefinitions>
-                <RowDefinition Height="*"/>
-                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="11*"/>
+                <RowDefinition Height="13*"/>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="*"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
             </Grid.ColumnDefinitions>
 
-            <!--<Button Name="btnGoBack" Content="Return" Background="Aquamarine" Width="50" Height="40" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnGoBack_Click"/>-->
+            <Border BorderThickness="1" CornerRadius="3" MaxHeight="50" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Column="3" Grid.Row="1">
+                <Border.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA4B3C5" Offset="0"/>
+                        <GradientStop Color="#FFA4B3C5" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.BorderBrush>
+                <Border BorderThickness="1" BorderBrush="Black" CornerRadius="0" >
+                    <Border.Background>
+                        <RadialGradientBrush GradientOrigin="0.225,-0.616" RadiusY="0.863" RadiusX="0.757">
+                            <GradientStop Color="#EEFFFFFF"/>
+                            <GradientStop Color="#00FFFFFF" Offset="0.696"/>
+                        </RadialGradientBrush>
+                    </Border.Background>
+                    <Button Name="btnGoBack" Background="Transparent" BorderBrush="Black" MinWidth="150" VerticalAlignment="Top" HorizontalAlignment="Left" Click="btnLogOut_Click">
+                        <StackPanel>
+                            <Image Source="/Images/LogoutXSml.png" MaxHeight="30" MaxWidth="100" VerticalAlignment="Top"/>
+                        </StackPanel>
+                    </Button>
 
-            <Button Name="btnRoomView" Grid.Column="1" Grid.Row="0" Margin="20" Background="DarkCyan" Click="btnRoomView_Click">
+                </Border>
+            </Border>
+
+            <Button Name="btnRoomView" Grid.Column="1" Grid.Row="1" Margin="20,0.177,20,20" Background="DarkCyan" Click="btnRoomView_Click">
                 <StackPanel Orientation="Vertical">
                     <Image Source="/Images/LiveFeedSml.png"  MaxWidth="200"/>
-                    <TextBlock Text="RoomView" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
+                    <TextBlock Text="Room View" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
                 </StackPanel>
             </Button>
 
-            <Button Name="btnAddUser" Grid.Row="0" Grid.Column="2" Margin="20" Background="Red" Click="btnAddUser_Click">
+            <Button Name="btnAddUser" Grid.Row="1" Grid.Column="2" Margin="20,0.177,20,20" Background="Red" Click="btnAddUser_Click">
                 <StackPanel Orientation="Vertical">
                     <Image Source="/Images/userWhiteSml.png" MaxWidth="110" VerticalAlignment="Top"/>
                     <TextBlock Text="Add User" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
                 </StackPanel>
             </Button>
 
-            <Button Name="btnMessagingService" Grid.Row="1" Grid.Column="1" Margin="20" Background="DarkOrange" Click="btnMessagingService_Click">
+            <Button Name="btnAddAdmin" Grid.Row="2" Grid.Column="1" Margin="20" Background="DarkOrange" Click="btnAddAdmin_Click">
                 <StackPanel Orientation="Vertical">
-                    <Image Source="/Images/EmailNoteWhiteSml.png" MaxWidth="170" VerticalAlignment="Top" />
-                    <TextBlock Text="MessagingService" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
+                    <Image Source="/Images/AddAdmin.png" MaxWidth="170" VerticalAlignment="Top" />
+                    <TextBlock Text="Add Administrator" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
                 </StackPanel>
             </Button>
 
-            <Button Name="btnListOfUsers" Grid.Row="1" Grid.Column="2" Margin="20" Background="Green" Click="btnListOfUsers_Click">
+            <Button Name="btnListOfUsers" Grid.Row="2" Grid.Column="2" Margin="20" Background="Green" Click="btnListOfUsers_Click">
                 <StackPanel Orientation="Vertical">
                     <Image Source="/Images/ListUsers1WhiteSml.png" MaxWidth="190"/>
-                    <TextBlock Text="ListOfUsers" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
+                    <TextBlock Text="List Of Users" FontWeight="Bold" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="White"/>
                 </StackPanel>
             </Button>
 

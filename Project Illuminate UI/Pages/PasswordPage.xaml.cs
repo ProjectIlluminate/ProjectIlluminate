@@ -12,7 +12,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
 using Project_Illuminate_UI.Pages;//enables connection to other pages
 
 namespace Project_Illuminate_UI.Pages
@@ -20,14 +19,16 @@ namespace Project_Illuminate_UI.Pages
     /// <summary>
     /// Interaction logic for PasswordPage.xaml
     /// </summary>
+    /// 
+
     public partial class PasswordPage : Page
     {
-        string password = "1234";
+        string password = "007";
         string inputtedPassword = "";
 
         public PasswordPage()
         {
-            InitializeComponent();
+            InitializeComponent();        
         }
 
         private void TypePassword(object sender, RoutedEventArgs e)
